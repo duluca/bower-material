@@ -1,5 +1,5 @@
 {
-  "name": "angular-material",
+  "name": "angular-material-rc-peers",
   "version": "1.0.3-master-e1c07ec",
   "main": "index",
   "format": "cjs",
@@ -38,7 +38,9 @@
     "angular",
     "material",
     "browser",
-    "client-side"
+    "client-side",
+    "rc",
+    "peerDependencies"
   ],
   "bugs": {
     "url": "https://github.com/angular/material/issues"
